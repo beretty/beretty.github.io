@@ -48,4 +48,37 @@ gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
 
-
+# Friends
+friends: [
+    {
+    #     title: "Su",
+    #     href: "http://su.gallery/"
+    # },{
+        title: "xMinh",
+        href: "https://xminh.github.io/"
+    },{
+        title: "Asia",
+        href: "http://www.cnblogs.com/victorique/"
+    },{
+        title: "zyf",
+        href: "https://beretty.github.io/"
+    },{
+        title: "zzzyc",
+        href: "https://www.luogu.org/blog/user52892/"
+    },{
+        title: "Cansult",
+        href: "https://www.cansult.ga/"
+    },{
+        title: "Captain_Paul",
+        href: "https://www.luogu.org/blog/Captain-Paul/"
+    },{
+        title: "AH",
+        href: "http://blog.csdn.net/qq_39766648/"
+    },{
+        title: "Small_Little_Rabbit",
+        href: "http://blog.csdn.net/slr2002/article/category/7487397/"
+    },{
+        title: "Refun",
+        href: "http://www.cnblogs.com/refun/"
+    }
+]
