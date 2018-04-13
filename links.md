@@ -29,6 +29,8 @@ title: 友链
         
 <p><a href="https://milky-w.github.io">【坠强女选手】Milky Way/Fym</a></p>
 
-<p><center>友链采集/博客搭建 来自<a href="https://xminh.github.io/">xMinh<center></p>
+<p><center>友链采集/博客搭建 来自<a href="https://xminh.github.io/">xMinh <center></p>
+        
+        
 
 {% include comments.html %}
