@@ -19,7 +19,7 @@ title: 关于我
 
 <p>
 
-emm,反之我就是SLYZ最菜的 
+emm,反之我就是SLYZ最辣鸡的 
 <p> 
 
 <p> 
